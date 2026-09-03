@@ -8,12 +8,13 @@ Unofficial Windows recovery launcher for a specific Microsoft Store / MSIX ChatG
 
 **Current public snapshot: v1.0.0**
 
+- **[Download v1.0.0 ZIP](https://github.com/illionharutome/chatgpt-windows-selfheal/raw/main/dist/ChatGPT-Windows-SelfHeal-v1.0.0.zip)** — recommended
 - [Download `ChatGPT-SelfHeal.ps1`](https://raw.githubusercontent.com/illionharutome/chatgpt-windows-selfheal/main/ChatGPT-SelfHeal.ps1)
 - [Download `ChatGPT-SelfHeal.cmd`](https://raw.githubusercontent.com/illionharutome/chatgpt-windows-selfheal/main/ChatGPT-SelfHeal.cmd)
 - [v1.0.0 release notes](RELEASE_NOTES_v1.0.0.md)
 - [Related upstream issue: openai/codex#41540](https://github.com/openai/codex/issues/41540)
 
-Put the `.ps1` and `.cmd` files in the same folder, then double-click:
+Extract the ZIP (or put the `.ps1` and `.cmd` files in the same folder), then double-click:
 
 ```text
 ChatGPT-SelfHeal.cmd
